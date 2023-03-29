@@ -1,0 +1,24 @@
+.container {
+    margin-bottom: 30px;
+}
+
+h6 {
+    font-size: calc(20px + (35 - 20) * ((100vw - 300px) / (1300 - 300)));
+    font-weight: 500;
+    font-family: 'Baloo Paaji', cursive;
+    color: #695aa6;
+    text-align: center;
+    margin-top: 130px;
+}
+
+i {
+    color: #695aa6;
+    font-size: 30px;
+    margin-right: 10px;
+}
+
+li {
+    list-style: none;
+    margin-bottom: 10px;
+    font-family: 'Baloo Paaji', cursive;
+}

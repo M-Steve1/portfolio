@@ -1,0 +1,17 @@
+.header {
+    background-color: transparent !important;
+    z-index: 1;
+    background-image: -webkit-linear-gradient(bottom, #fff 0%, rgba(105, 90, 166, 0.35) 99%, rgba(105, 90, 166, 0.5) 100%);
+    background-image: linear-gradient(to top, #fff 0%, rgba(105, 90, 166, 0.35) 99%, rgba(105, 90, 166, 0.5) 100%);
+}
+
+a {
+    color: white;
+    cursor: pointer;
+}
+
+.navbar-brand {
+    color: gold;
+    font-weight: 600;
+    font-size: 25px;
+}

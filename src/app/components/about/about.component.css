@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+h2 {
+    font-size: calc(20px + (35 - 20) * ((100vw - 300px) / (1300 - 300)));
+    font-weight: 500;
+    font-family: 'Baloo Paaji', cursive;
+    color: #695aa6;
+}
+
+.container div:first-child {
+    margin-right: 50px;
+}
+
+p {
+    font-size: calc(13px + (15 - 13) * ((100vw - 300px) / (1300 - 300)));
+    font-weight: 100;
+    opacity: 1;
+    color: #111;
+    letter-spacing: .6px;
+}
+
+img {
+    height: 600px;
+}

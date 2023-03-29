@@ -1,0 +1,42 @@
+h6 {
+    font-size: calc(20px + (35 - 20) * ((100vw - 300px) / (1300 - 300)));
+    font-weight: 500;
+    font-family: 'Baloo Paaji', cursive;
+    color: #695aa6;
+    text-align: center;
+    margin-top: 110px;
+    margin-bottom: 50px;
+}
+
+/* .container {
+    min-height: 400px;
+    margin-top: 100px;
+    margin-left: 0;
+    justify-content: space-around;
+    align-content: center;
+    display: flex;
+} */
+
+img {
+    width: 100%;
+    cursor: pointer;
+}
+
+img:hover {
+    opacity: 0.2;
+}
+
+.portfolio-card:hover {
+    background-image: linear-gradient(to top, #e1dfed 0%, rgba(225, 223, 237, 0.7) 99%, rgba(225, 223, 237, 0.8) 100%);
+}
+
+
+a {
+    margin-bottom: 15px;
+    display: block;
+    color: #695aa6;
+    font-weight: 500;
+    font-size: larger;
+    text-decoration: none;
+    font-family: 'Baloo Paaji', cursive;
+}

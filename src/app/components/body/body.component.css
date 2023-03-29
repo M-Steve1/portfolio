@@ -1,0 +1,27 @@
+h1 {
+    font-size: calc(30px + (75 - 30) * ((100vw - 300px) / (1300 - 300)));
+    font-family: 'Baloo Paaji', cursive;
+}
+
+span {
+    display: block;
+    font-size: calc(10px + (22 - 10) * ((100vw - 300px) / (1300 - 300)));
+    letter-spacing: calc(1px + (7 - 1) * ((100vw - 300px) / (1300 - 300)));
+    opacity: .8;
+    margin-top: -10px;
+    margin-bottom: 20px;
+}
+button {
+    position: relative;
+    margin-top: 20px;
+    border-radius: 20px;
+    padding: 12px 15px;
+    background-color: #695aa6;
+    color: white;
+    font-size: larger;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
