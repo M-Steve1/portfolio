@@ -31,3 +31,12 @@ a {
     text-decoration: none;
     font-family: 'Baloo Paaji', cursive;
 }
+
+@media screen and (max-width: 520px) {
+    .container {
+           width: 520px;
+       }
+       .header-div h6 {
+        text-align: center;
+       }
+   }

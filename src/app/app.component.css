@@ -24,8 +24,8 @@
 }
 
 
-@media screen and (max-width: 510px) {
-    .container-div {
+@media screen and (max-width: 520px) {
+ .container-div {
         width: 520px;
     }
 }
