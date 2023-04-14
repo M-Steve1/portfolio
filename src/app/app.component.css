@@ -27,6 +27,5 @@
 @media screen and (max-width: 510px) {
     .container-div {
         width: 520px;
-        border: 3px solid green;
     }
 }

@@ -26,10 +26,6 @@ a {
     color: white;
 }
 
-div {
-    margin: 100px;
-}
-
 @media screen and (max-width: 500px) {
     div {
         margin-top: 200px;
