@@ -22,3 +22,11 @@
     background-image: -webkit-linear-gradient(bottom, #fff 0%, rgba(105, 90, 166, 0.35) 99%, rgba(105, 90, 166, 0.5) 100%);
     background-image: linear-gradient(to top, #fff 0%, rgba(105, 90, 166, 0.35) 99%, rgba(105, 90, 166, 0.5) 100%);
 }
+
+
+@media screen and (max-width: 510px) {
+    .container-div {
+        width: 520px;
+        border: 3px solid green;
+    }
+}
