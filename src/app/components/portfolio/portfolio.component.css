@@ -11,6 +11,7 @@ h6 {
 img {
     width: 100%;
     cursor: pointer;
+    height: 430px;
 }
 
 img:hover {
