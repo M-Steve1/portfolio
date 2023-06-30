@@ -3,6 +3,10 @@
 @import url("../node_modules/animate.css/animate.css");
 @import "~bootstrap-icons/font/bootstrap-icons.css";
 
+@import 'swiper/css';
+@import 'swiper/css/navigation';
+@import 'swiper/css/pagination';
+
 body {
   margin: 0;
   font-family: "Open Sans", sans-serif;

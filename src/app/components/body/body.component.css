@@ -13,12 +13,14 @@ span {
 }
 button {
     position: relative;
-    margin-top: 20px;
     border-radius: 20px;
-    padding: 12px 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background-color: #695aa6;
     color: white;
     font-size: larger;
+    padding-top: 10px;
 }
 
 a {

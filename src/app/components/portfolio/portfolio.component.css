@@ -14,14 +14,6 @@ img {
     height: 430px;
 }
 
-img:hover {
-    opacity: 0.2;
-}
-
-.portfolio-card:hover {
-    background-image: linear-gradient(to top, #e1dfed 0%, rgba(225, 223, 237, 0.7) 99%, rgba(225, 223, 237, 0.8) 100%);
-}
-
 
 a {
     margin-bottom: 15px;
